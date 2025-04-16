@@ -151,7 +151,7 @@ int main() {
         printf("3. Insert at Position\n");
         printf("4. Delete from Beginning\n");
         printf("5. Delete from End\n");
-        ptintf("6. Delete from Position\n");
+        ptintf("6. Delete from Any Position\n");
         printf("7. Display\n");
         printf("8. Exit\n");
         printf("Enter choice: ");
